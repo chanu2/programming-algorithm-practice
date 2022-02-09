@@ -11,10 +11,6 @@ elif n[0]!=' 'and n[len(n)-1] ==' ':
         if n[j]==' ':
             sum+=1
     print(sum)        
-# elif n[0]==' 'and n[len(n)-1]==' ':
-#     for k in range(1,len(n)-1):
-#         if n[k]==' ':
-#             sum+=1
 elif n[0]!=' 'and n[len(n)-1]!=' ':
     for l in range(len(n)):
         if n[l]==' ':
