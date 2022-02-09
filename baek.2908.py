@@ -1,12 +1,4 @@
-data= input().split()
-#a=data[0][2]+data[0][1]+data[0][0]
-#b=data[1][2]+data[1][1]+data[1][0]      
-#a=int(a)
-#b=int(b)
-#if a>b:
-    #print(a)
-#else:
-    #print(b)    
+data= input().split()  
 sum1=''
 sum2=''
 for i in range(2,-1,-1):
