@@ -1,5 +1,4 @@
 import sys
-
 i=1
 while True:
     perfect=sys.stdin.readline()
